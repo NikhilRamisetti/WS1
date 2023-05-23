@@ -6,3 +6,6 @@ git log
 git branch 
 git branch <branchname>
 git checkout -b <branchname>
+git push
+git pull
+git fetch
