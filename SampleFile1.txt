@@ -8,3 +8,7 @@ git branch <branchname>
 git checkout -b <branchname>
 git remote add <name> <URL>
 git push -u <name> <URL>
+git pull
+git fetch
+git push
+
